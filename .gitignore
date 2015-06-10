@@ -1,0 +1,4 @@
+*.dll
+CustomerService/bin
+CustomerService/obj
+packages
